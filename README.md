@@ -12,7 +12,7 @@
 <a href="https://github.com/gear2head">
   <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
-<a href="https://linkedin.com/in/alper-%C5%9Fener" target="_blank">
+<a href="https://linkedin.com/in/kalpersener" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2"/>
 </a>
 <a href="https://www.leetcode.com/gearheadd" target="_blank">
