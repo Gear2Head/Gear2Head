@@ -25,7 +25,7 @@
 
 ---
 
-### ⚡ About Me & Philosophy
+### ⚡ About Me
 
 <div align="center">
 
@@ -48,31 +48,31 @@
 
 ---
 
-### 🛠️ Tech Stack & Ecosystem
+### Tech Stack & Ecosystem
 
 <div align="center">
 
-#### 💻 Languages & Systems
+#### Languages & Systems
 <img src="https://skillicons.dev/icons?i=c,cpp,cs,python,ts,js&perline=6" />
 
 <br/>
 
-#### 🌐 Web & Frameworks
+#### Web & Frameworks
 <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,tailwind&perline=4" />
 
 <br/>
 
-#### 🗄️ Databases & Cloud
+#### Databases & Cloud
 <img src="https://skillicons.dev/icons?i=postgres,supabase,mysql,vercel&perline=4" />
 
 <br/>
 
-#### ⚙️ DevOps & Tools
+#### DevOps & Tools
 <img src="https://skillicons.dev/icons?i=docker,linux,git,github&perline=4" />
 
 <br/>
 
-#### 🤖 AI Ecosystem
+#### AI Ecosystem
 <img src="https://img.shields.io/badge/OpenAI%20Codex-0D1117?style=for-the-badge&logo=openai&logoColor=white"/>
 <img src="https://img.shields.io/badge/Google%20Gemini-0D1117?style=for-the-badge&logo=googlegemini&logoColor=8E75B2"/>
 <img src="https://img.shields.io/badge/Claude-0D1117?style=for-the-badge&logo=anthropic&logoColor=D97757"/>
@@ -83,7 +83,7 @@
 
 ---
 
-### ⭐ Featured Projects
+### Featured Projects
 
 <table>
 <tr>
@@ -96,9 +96,9 @@
   <img src="https://skillicons.dev/icons?i=nextjs,ts,supabase,postgres" />
 </p>
 
-- 🏢 **Institution & Auditor Management**
-- 📋 **Standards & Compliance Evidence**
-- 📊 **Audit Workflows & Reporting**
+- **Institution & Auditor Management**
+- **Standards & Compliance Evidence**
+- **Audit Workflows & Reporting**
 
 <br/>
 
@@ -112,16 +112,16 @@
 
 <td width="50%" valign="top">
 
-<h3 align="center">🤖 LUTHEUS</h3>
+<h3 align="center">LUTHEUS</h3>
 <p align="center"><b>Discord Moderation Intelligence Platform</b></p>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=ts,react,supabase,postgres" />
 </p>
 
-- 🛡️ **Automated Moderation & Audit Logs**
-- 🔄 **Real-Time Member Synchronization**
-- 📈 **Data Extraction & Dashboard**
+- **Automated Moderation & Audit Logs**
+- **Real-Time Member Synchronization**
+- **Data Extraction & Dashboard**
 
 <br/>
 
@@ -136,56 +136,6 @@
 </table>
 
 <br/>
-
----
-
-### 🧠 Computer Science & Engineering Foundations
-
-<div align="center">
-
-```
-┌───────────────────────────────────────────────────────────────────────────┐
-│  Data Structures  •  Algorithms  •  Memory Management  •  Operating Systems │
-│                  Computer Networking  •  Software Architecture           │
-└───────────────────────────────────────────────────────────────────────────┘
-```
-
-</div>
-
-<br/>
-
----
-
-### 📊 GitHub Activity & Analytics
-
-<div align="center">
-
-<table border="0" cellspacing="0" cellpadding="0">
-  <tr>
-    <td align="center" valign="middle">
-      <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=gear2head&show_icons=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=8B5CF6&text_color=C9D1D9&border_radius=12" />
-    </td>
-    <td align="center" valign="middle">
-      <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=gear2head&layout=compact&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&border_radius=12" />
-    </td>
-  </tr>
-</table>
-
-<br/>
-
-<img src="https://streak-stats.demolab.com?user=gear2head&theme=dark&hide_border=true&background=0D1117&ring=58A6FF&fire=8B5CF6&currStreakLabel=C9D1D9&sideLabels=C9D1D9&currStreakNum=58A6FF&sideNums=C9D1D9&border_radius=12" />
-
-<br/><br/>
-
-#### 🐍 Contribution Snake
-
-<img src="https://raw.githubusercontent.com/gear2head/gear2head/output/github-contribution-grid-snake-dark.svg" width="95%" alt="Snake Animation" />
-
-</div>
-
-<br/>
-
----
 
 <div align="center">
 
