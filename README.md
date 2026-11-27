@@ -1,152 +1,34 @@
-<div align="center">
+### Gear_Head
 
-<!-- HEADER BANNER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,40:1F6FEB,80:7928CA,100:EC4899&height=240&section=header&text=GEAR_HEAD&fontSize=62&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Computer%20Engineering%20Student%20%7C%20AI-Assisted%20Developer&descAlignY=58&descSize=18"/>
+First-year computer engineering student. I've been shipping small web apps for about three years, mostly Next.js + Supabase, and I use AI tools (Claude, Codex, Gemini) heavily while doing it. I don't know every stack I list below; I know the parts my projects needed.
 
-<!-- DYNAMIC TYPING HEADER -->
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=17&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=750&lines=Building+real-world+production+apps+while+learning;AI-assisted+development+%7C+Full-Stack+%7C+Systems;3%2B+years+of+building%2C+debugging+%26+experimenting;Learn+%E2%86%92+Build+%E2%86%92+Break+%E2%86%92+Understand+%E2%86%92+Improve" alt="Typing SVG"/>
+Right now: building tooling for Discord moderation teams and certification bodies, and learning C/C++ properly at school.
 
-<br/><br/>
+#### Work
 
-<!-- SOCIAL BADGES -->
-<a href="https://github.com/gear2head">
-  <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-<a href="https://linkedin.com/in/kalpersener" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2"/>
-</a>
-<a href="https://www.leetcode.com/gearheadd" target="_blank">
-  <img src="https://img.shields.io/badge/LeetCode-0D1117?style=for-the-badge&logo=leetcode&logoColor=FFA116"/>
-</a>
+**[AHİKUT](https://ahikut.vercel.app/)** · certification & accreditation platform
+Institutions, auditors, standards and evidence in one place. Audit workflows end in a report instead of a pile of spreadsheets.
+`Next.js` `TypeScript` `Supabase` `Postgres`
 
-</div>
+**[LUTHEUS](https://lutheus.vercel.app)** · Discord moderation dashboard
+Pulls moderation actions and audit logs out of Discord, keeps member data in sync, and shows it on a dashboard staff can actually search.
+`TypeScript` `React` `Supabase` `Postgres`
 
-<br/>
+Both repos are private. Happy to walk through the code on a call.
 
----
+#### Toolkit
 
-### ⚡ About Me
+| | |
+|---|---|
+| Daily | TypeScript, React, Next.js, Tailwind, Supabase / Postgres, Vercel, Git |
+| Comfortable | Python, Node.js, MySQL, Docker, Linux |
+| Learning | C, C++, C# |
 
-<div align="center">
+#### Activity
 
-> *"I don't claim mastery over every tech stack I use — I learn by building, breaking things down, understanding core mechanics, and continuously improving."*
+<img src="https://www.gitskins.com/api/section/stats?username=gear2head&theme=github-dark&mode=dark" alt="GitHub stats for gear2head" width="49%" />
+<img src="https://www.gitskins.com/api/section/heatmap?username=gear2head&theme=github-dark&mode=dark" alt="Contribution heatmap for gear2head" width="49%" />
 
-<br/>
+#### Contact
 
-🎓 **First-year Computer Engineering Student**  
-💻 **3+ years of building software through project-driven learning & AI-assisted workflows**
-
-<br/>
-
-<img src="https://img.shields.io/badge/AI%20ASSISTED-Development-58A6FF?style=for-the-badge&logo=openai&logoColor=white"/>
-<img src="https://img.shields.io/badge/PROJECT%20DRIVEN-Learning-8B5CF6?style=for-the-badge&logo=github&logoColor=white"/>
-<img src="https://img.shields.io/badge/ALWAYS-LEARNING-22C55E?style=for-the-badge&logo=git&logoColor=white"/>
-
-</div>
-
-<br/>
-
----
-
-### Tech Stack & Ecosystem
-
-<div align="center">
-
-#### Languages & Systems
-<img src="https://skillicons.dev/icons?i=c,cpp,cs,python,ts,js&perline=6" />
-
-<br/>
-
-#### Web & Frameworks
-<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,tailwind&perline=4" />
-
-<br/>
-
-#### Databases & Cloud
-<img src="https://skillicons.dev/icons?i=postgres,supabase,mysql,vercel&perline=4" />
-
-<br/>
-
-#### DevOps & Tools
-<img src="https://skillicons.dev/icons?i=docker,linux,git,github&perline=4" />
-
-<br/>
-
-#### AI Ecosystem
-<img src="https://img.shields.io/badge/OpenAI%20Codex-0D1117?style=for-the-badge&logo=openai&logoColor=white"/>
-<img src="https://img.shields.io/badge/Google%20Gemini-0D1117?style=for-the-badge&logo=googlegemini&logoColor=8E75B2"/>
-<img src="https://img.shields.io/badge/Claude-0D1117?style=for-the-badge&logo=anthropic&logoColor=D97757"/>
-
-</div>
-
-<br/>
-
----
-
-### Featured Projects
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-<h3 align="center">🛡️ AHİKUT</h3>
-<p align="center"><b>Certification & Accreditation Platform</b></p>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=nextjs,ts,supabase,postgres" />
-</p>
-
-- **Institution & Auditor Management**
-- **Standards & Compliance Evidence**
-- **Audit Workflows & Reporting**
-
-<br/>
-
-<p align="center">
-  <a href="https://ahikut.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/VIEW_LIVE_DEMO-1F6FEB?style=for-the-badge&logo=vercel&logoColor=white"/>
-  </a>
-</p>
-
-</td>
-
-<td width="50%" valign="top">
-
-<h3 align="center">LUTHEUS</h3>
-<p align="center"><b>Discord Moderation Intelligence Platform</b></p>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,react,supabase,postgres" />
-</p>
-
-- **Automated Moderation & Audit Logs**
-- **Real-Time Member Synchronization**
-- **Data Extraction & Dashboard**
-
-<br/>
-
-<p align="center">
-  <a href="https://lutheus.vercel.app" target="_blank">
-    <img src="https://img.shields.io/badge/VIEW_LIVE_DEMO-1F6FEB?style=for-the-badge&logo=vercel&logoColor=white"/>
-  </a>
-</p>
-
-</td>
-</tr>
-</table>
-
-<br/>
-
-<div align="center">
-
-<img src="https://komarev.com/ghpvc/?username=gear2head&color=1F6FEB&style=for-the-badge&label=PROFILE+VIEWS"/>
-
-<br/><br/>
-
-<sub><b>Build. Learn. Break. Understand. Repeat.</b></sub>
-
-<br/><br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,40:1F6FEB,80:7928CA,100:EC4899&height=120&section=footer"/>
-
-</div>
+[LinkedIn](https://linkedin.com/in/kalpersener) · [LeetCode](https://leetcode.com/gearheadd)
