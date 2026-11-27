@@ -1,25 +1,23 @@
 <p>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/header-dark.svg">
-  <img src="assets/header-light.svg" alt="Gear_Head. Computer engineering student who ships Next.js and Supabase apps." width="100%">
+  <img src="assets/header-light.svg" alt="Gear_Head. Computer engineering student. I build React and Supabase apps." width="100%">
 </picture>
 </p>
 
-I've been building web apps for about three years, mostly with Next.js and Supabase. I use AI tools (Claude, Codex, Gemini) heavily and say so. At school I'm learning C and C++ properly.
+<p>I've been building web apps for about three years, mostly React/Next.js and Supabase. I use AI tools (Claude, Codex, Gemini) heavily and say so. At school I'm learning C and C++ properly. The project repos are private; the apps are live, so click a project to open it.</p>
 
-## Projects
+<p>
+<a href="https://ahikut.vercel.app/">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/ahikut-dark.svg">
+  <img src="assets/ahikut-light.svg" alt="Project: AHİKUT, live at ahikut.vercel.app. Certification and accreditation platform where institutions, auditors and compliance evidence meet, with audit workflows that end in a report. Built with Vite, React, TypeScript, Supabase and Postgres. Screenshot of its landing page." width="100%">
+</picture>
+</a>
+</p>
 
-The repos are private. The apps are live; click a screenshot to open one.
-
-<table>
-<tr>
-<td width="50%" valign="top">
-<a href="https://ahikut.vercel.app/"><img src="assets/ahikut.png" alt="AHİKUT landing page" width="100%"></a>
-<h3><a href="https://ahikut.vercel.app/">AHİKUT</a></h3>
-<p>Certification and accreditation platform. Institutions, auditors, standards and compliance evidence in one place, with audit workflows that end in a report.</p>
-<p><sub>React, TypeScript, Supabase, Postgres</sub></p>
 <details>
-<summary>How it's built</summary>
+<summary>How AHİKUT is built</summary>
 
 ```mermaid
 flowchart LR
@@ -36,17 +34,21 @@ flowchart LR
   A --> FN
 ```
 
-A single-page app that talks straight to Supabase. Postgres holds institutions, applications, auditor assignments, findings and certificates; scoring runs as a Postgres function. Evidence files go to Storage.
+A Vite + React single-page app that talks straight to Supabase. Postgres holds institutions, applications, auditor assignments, findings and certificates; scoring runs as a Postgres function. Evidence files go to Storage.
 
 </details>
-</td>
-<td width="50%" valign="top">
-<a href="https://lutheus.vercel.app"><img src="assets/lutheus.png" alt="LUTHEUS landing page" width="100%"></a>
-<h3><a href="https://lutheus.vercel.app">LUTHEUS</a></h3>
-<p>Moderation panel for a Discord server's staff. Moderation actions and audit logs, real-time member sync and a dashboard. Its landing page shows the live counts.</p>
-<p><sub>TypeScript, React, Supabase, Postgres</sub></p>
+
+<p>
+<a href="https://lutheus.vercel.app">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/lutheus-dark.svg">
+  <img src="assets/lutheus-light.svg" alt="Project: LUTHEUS, live at lutheus.vercel.app. Moderation panel for a Discord server's staff, with audit logs, real-time member sync and a dashboard that shows live counts. Built with Next.js, TypeScript, Supabase and Postgres. Screenshot of its landing page." width="100%">
+</picture>
+</a>
+</p>
+
 <details>
-<summary>How it's built</summary>
+<summary>How LUTHEUS is built</summary>
 
 ```mermaid
 flowchart LR
@@ -58,34 +60,19 @@ flowchart LR
 Next.js App Router on Vercel, Supabase behind it. The public page reads its live counts from a Next.js API route; staff sign in to reach the panel.
 
 </details>
-</td>
-</tr>
-</table>
-
-## Toolkit
 
 <p>
-  <sub>Daily</sub><br>
-  <img src="https://skillicons.dev/icons?i=ts,react,nextjs,tailwind,supabase,postgres,vercel,git&theme=dark" alt="TypeScript, React, Next.js, Tailwind, Supabase, Postgres, Vercel, Git" height="40">
-</p>
-<p>
-  <sub>Comfortable</sub><br>
-  <img src="https://skillicons.dev/icons?i=py,nodejs,mysql,docker,linux&theme=dark" alt="Python, Node.js, MySQL, Docker, Linux" height="40">
-</p>
-<p>
-  <sub>Learning</sub><br>
-  <img src="https://skillicons.dev/icons?i=c,cpp,cs&theme=dark" alt="C, C++, C#" height="40">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/toolkit-dark.svg">
+  <img src="assets/toolkit-light.svg" alt="Toolkit. Daily: TypeScript, React, Next.js, Tailwind, Supabase, Postgres, Vercel, Git. Comfortable: Python, Node.js, MySQL, Docker, Linux. Learning: C, C++, C#." width="100%">
+</picture>
 </p>
 
-## Activity
-
+<p>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/activity-dark.svg">
-  <img src="assets/activity-light.svg" alt="GitHub contribution grid for the last year, with current streak, longest streak and busiest weekday" width="100%">
+  <img src="assets/activity-light.svg" alt="Activity: GitHub contribution grid for the last year with current streak, longest streak and busiest weekday. Redrawn daily by scripts/build-cards.mjs." width="100%">
 </picture>
+</p>
 
-<sub>Redrawn every day from the GitHub API by <a href="scripts/build-cards.mjs">a script in this repo</a>.</sub>
-
-## Contact
-
-[LinkedIn](https://linkedin.com/in/kalpersener) &nbsp;&nbsp; [LeetCode](https://leetcode.com/gearheadd)
+<p><a href="https://linkedin.com/in/kalpersener">LinkedIn</a> · <a href="https://leetcode.com/gearheadd">LeetCode</a></p>
