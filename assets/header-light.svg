@@ -1,4 +1,17 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 260" width="1200" height="260" role="img" aria-label="Gear_Head. Computer engineering student who ships Next.js and Supabase apps.">
+  <style>
+    .rule { transform-box: fill-box; transform-origin: top; animation: draw 700ms cubic-bezier(.2,.7,.3,1) both; }
+    .name { animation: rise 600ms cubic-bezier(.2,.7,.3,1) 150ms both; }
+    .sub { animation: fade 600ms ease-out 400ms both; }
+    .fact { animation: rise 500ms cubic-bezier(.2,.7,.3,1) both; }
+    .fact:nth-child(1) { animation-delay: 750ms; }
+    .fact:nth-child(2) { animation-delay: 900ms; }
+    .fact:nth-child(3) { animation-delay: 1050ms; }
+    @keyframes draw { from { transform: scaleY(0); } to { transform: none; } }
+    @keyframes rise { from { opacity: 0; transform: translateY(6px); } to { opacity: 1; transform: none; } }
+    @keyframes fade { from { opacity: 0; } to { opacity: 1; } }
+    @media (prefers-reduced-motion: reduce) { .rule, .name, .sub, .fact { animation: none; } }
+  </style>
   <defs>
     <pattern id="g" width="24" height="24" patternUnits="userSpaceOnUse"><circle cx="1" cy="1" r="1" fill="#d0d7de"/></pattern>
     <linearGradient id="fade" x1="0" x2="1"><stop offset="0.35" stop-color="#fff" stop-opacity="0"/><stop offset="1" stop-color="#fff" stop-opacity="1"/></linearGradient>
@@ -6,14 +19,14 @@
   </defs>
   <rect x="0.5" y="0.5" width="1199" height="259" rx="12" fill="none" stroke="#d0d7de"/>
   <rect x="1" y="1" width="1198" height="258" rx="12" fill="url(#g)" mask="url(#m)"/>
-  <rect x="56" y="64" width="4" height="132" fill="#bc4c00"/>
+  <rect class="rule" x="56" y="64" width="4" height="132" fill="#bc4c00"/>
   <g font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif">
-    <text x="88" y="146" font-size="92" font-weight="700" letter-spacing="-3" fill="#1f2328">Gear<tspan fill="#bc4c00">_</tspan>Head</text>
-    <text x="92" y="192" font-size="24" fill="#59636e">Computer engineering student. I ship Next.js + Supabase apps.</text>
+    <text class="name" x="88" y="146" font-size="92" font-weight="700" letter-spacing="-3" fill="#1f2328">Gear<tspan fill="#bc4c00">_</tspan>Head</text>
+    <text class="sub" x="92" y="192" font-size="24" fill="#59636e">Computer engineering student. I ship Next.js + Supabase apps.</text>
   </g>
   <g font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="19" fill="#59636e" text-anchor="end">
-    <text x="1144" y="108"><tspan fill="#1f2328">1,600+</tspan> contributions since 2025</text>
-    <text x="1144" y="140"><tspan fill="#1f2328">2</tspan> apps live on Vercel</text>
-    <text x="1144" y="172">learning <tspan fill="#1f2328">C / C++</tspan> at school</text>
+    <text class="fact" x="1144" y="108"><tspan fill="#1f2328">1,600+</tspan> contributions since 2025</text>
+    <text class="fact" x="1144" y="140"><tspan fill="#1f2328">2</tspan> apps live on Vercel</text>
+    <text class="fact" x="1144" y="172">learning <tspan fill="#1f2328">C / C++</tspan> at school</text>
   </g>
 </svg>
